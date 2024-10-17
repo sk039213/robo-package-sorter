@@ -1,4 +1,19 @@
 def sort(width, height, length, mass):
+    """
+    Sorts a package based on its dimensions and mass to the appropriate stack.
+
+    Args:
+        width: Width of the package in centimeters (cm).
+        height: Height of the package in centimeters (cm).
+        length: Length of the package in centimeters (cm).
+        mass: Mass of the package in kilograms (kg).
+
+    Returns:
+        A string indicating the designated stack for the package:
+            - "STANDARD": Standard package (not bulky or heavy).
+            - "SPECIAL": Bulky or heavy package.
+            - "REJECTED": Package that is both bulky and heavy.
+    """
     # Calculate volume
     volume = width * height * length
 
