@@ -64,13 +64,3 @@ Click the "Run" button to execute the code and see the test results. For easier 
 - **Comprehensive test coverage**: Covers all package types and sorting outcomes
 
 Feel free to review the code, run the tests, and let me know if you have any questions or suggestions for improvements!
-
-Citations:
-[1] https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-[2] https://www.nobledesktop.com/learn/git/create-a-readme-file
-[3] https://www.sitepoint.com/github-profile-readme/
-[4] https://stackoverflow.com/questions/44290660/how-to-create-a-readme-file-inside-a-subdirectory-on-github/44290875
-[5] https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
-[6] https://www.youtube.com/watch?v=QcZKsbgsLa4
-[7] https://www.makeareadme.com
-[8] https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
